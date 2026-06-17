@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baralbiddyaniketan.github.io/sadnan-islam.github.io/sitemap.xml
